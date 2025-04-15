@@ -1,0 +1,23 @@
+<EnclaveConfiguration>
+    <ProdID>0</ProdID>
+    <ISVSVN>0</ISVSVN>
+    <StackMaxSize>10485760</StackMaxSize>
+    <StackMinSize>10485760</StackMinSize>
+    <HeapMaxSize>146800640</HeapMaxSize>
+    <HeapMinSize>146800640</HeapMinSize>
+    <TCSNum>32</TCSNum>
+    <TCSPolicy>1</TCSPolicy>
+    <DisableDebug>0</DisableDebug>
+    <MiscSelect>0</MiscSelect>
+    <MiscMask>0xFFFFFFFF</MiscMask>
+    <ReservedMemMaxSize>335544320</ReservedMemMaxSize>
+    <ReservedMemMinSize>335544320</ReservedMemMinSize>
+    <ReservedMemInitSize>335544320</ReservedMemInitSize>
+    <ReservedMemExecutable>1</ReservedMemExecutable>
+    <EnableKSS>0</EnableKSS>
+    <ISVEXTPRODID_H>0</ISVEXTPRODID_H>
+    <ISVEXTPRODID_L>0</ISVEXTPRODID_L>
+    <ISVFAMILYID_H>0</ISVFAMILYID_H>
+    <ISVFAMILYID_L>0</ISVFAMILYID_L>
+    <PKRU>0</PKRU>
+</EnclaveConfiguration>
