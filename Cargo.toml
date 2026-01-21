@@ -7,7 +7,7 @@ version = "0.1.0"
 [dependencies]
 webpki-roots = { version = "0.21", optional = true }
 pem = { version = "0.8", optional = true }
-yasna   = { git = "https://github.com/DeepSecurityNetwork/yasna.rs", features = ["bit-vec", "num-bigint", "chrono"], branch = "deep" optional = true }
+yasna   = { git = "https://github.com/DeepSecurityNetwork/yasna.rs", features = ["bit-vec", "num-bigint", "chrono"], branch = "deep", optional = true }
 rand_core = { version = "0.5.1", features = ["getrandom"], optional = true }
 num-bigint = { version = "0.4.2", optional = true }
 chrono  = { version = "0.4.19", default-features = false }
