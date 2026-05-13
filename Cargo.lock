@@ -277,7 +277,7 @@ dependencies = [
 [[package]]
 name = "occlum_dcap"
 version = "0.1.0"
-source = "git+https://github.com/safexn/occlum?branch=deep#9462cfae72f0d8f4274de31f66c3924061a4ad3b"
+source = "git+https://github.com/deepslabs/occlum?branch=deep#9462cfae72f0d8f4274de31f66c3924061a4ad3b"
 dependencies = [
  "cfg-if",
  "libc",
@@ -700,7 +700,7 @@ checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 [[package]]
 name = "yasna"
 version = "0.4.0"
-source = "git+https://github.com/safexn/yasna.rs?branch=deep#26049419d490efd6f538cb73809d2d35f7dbd694"
+source = "git+https://github.com/deepslabs/yasna.rs?branch=deep#26049419d490efd6f538cb73809d2d35f7dbd694"
 dependencies = [
  "bit-vec",
  "chrono",
@@ -710,4 +710,4 @@ dependencies = [
 [[patch.unused]]
 name = "ring"
 version = "0.17.14"
-source = "git+https://github.com/safexn/ring#522afb658067bed0512a49f66bd4c07389b51ab3"
+source = "git+https://github.com/deepslabs/ring#522afb658067bed0512a49f66bd4c07389b51ab3"
